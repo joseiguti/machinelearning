@@ -1,0 +1,26 @@
+ID de Venta,Producto,Cantidad,Precio Unitario,Fecha de Venta,Estado de la Venta
+001,Mouse,2,25,2022-01-15,Completada
+002,Teclado,1,30,2022-02-10,Completada
+003,Auriculares,3,50,2022-03-05,En Proceso
+004,Ratón,1,,2022-04-20,Completada
+005,Pendrive,5,10,2022-05-12,Cancelada
+006,Monitor,2,150,2022-06-20,
+007,Teclado,3,,2022-07-05,Completada
+008,Ratón,1,20,2022-08-10,En Proceso
+009,Mouse,4,,2022-09-18,Completada
+010,Pendrive,2,15,2022-10-25,
+011,Monitor,1,120,2022-11-30,Completada
+012,Teclado,2,35,2022-12-15,Cancelada
+013,Auriculares,4,,2023-01-20,En Proceso
+014,Ratón,1,22,2023-02-05,Completada
+015,Pendrive,3,,2023-03-10,Completada
+016,Monitor,2,130,2023-04-15,En Proceso
+017,Teclado,1,40,2023-05-01,Completada
+018,Mouse,3,,2023-06-10,Completada
+019,Pendrive,2,12,2023-07-15,
+020,Ratón,1,25,2023-08-20,En Proceso
+021,Monitor,4,140,2023-09-25,Completada
+022,Auriculares,2,55,2023-10-30,Completada
+023,Teclado,1,38,2023-11-15,Cancelada
+024,Pendrive,5,,2023-12-20,En Proceso
+025,Mouse,3,28,2024-01-25,Completada
